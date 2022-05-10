@@ -1,0 +1,13 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <signal.h>
+#include <stdbool.h>
+#include <string.h>
+#include <unistd.h>
+#include <syslog.h>
+#include <argp.h>
+#include <errno.h>
+#include "StructContact.h"
+#include "agrp.h"
+#include "mainmenunu.h"
+#include "functions.h"

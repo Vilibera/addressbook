@@ -1,0 +1,1 @@
+int agrp_init(int argc,char *argv[]);
